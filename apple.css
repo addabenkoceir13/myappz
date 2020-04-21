@@ -1,0 +1,297 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    background-color: rgba( 0 , 0 , 0  , 0.98);
+    color: white;
+ 
+    font-style: italic;
+    padding: 10px;
+    /* opacity: 0.5;*/
+   
+} 
+#for{
+    margin: 10px;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+#text{
+    float: right;
+    background-color: black;
+    width: 65%;
+    text-align: left;
+    font-size: 18px;
+    text-align:justify ;
+    padding: 10px;
+    text-indent: 20px;
+
+}
+
+#myPhoto{
+    border: 1px solid rgb(232, 230, 235);
+    width: 30%;
+    height:20%;
+    border: 5px;
+    display:block;
+    box-shadow: 5px 5px 6px 6px;
+    word-wrap: break-word;
+    float: left;
+}
+div.pargraphe{
+    text-align:left;
+    padding: 10px;
+    margin: 10px 20px;
+    color:rgb(15, 15, 15) ;
+    background-color:#696969 ;
+    width: 20%;
+    height:10%;
+    text-align:justify ;
+    text-indent: 20px;
+
+
+}
+/* css logo de apple  */
+
+.mylogo{
+    padding: 2px solid white;
+    text-align: center;
+    margin: 5px;
+    border: 1px solid #ccc;
+    
+    
+}.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+     
+  }
+  
+  .gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    
+  }
+      /* css h2 logo apple  */
+  .myh2{
+      margin-left: 40px;
+      text-align:center;
+      color:rgb(10, 9, 9) ;
+      background-color:rgb(255, 250, 240) ;
+      width: 400px;
+      height: 10%;
+      text-align: center;
+      margin-left: 500px;
+      font-size: 28px;
+      border:3px solid black;
+      padding: 10px;
+      border-radius: 40px;
+      text-shadow: 2px 2px 5px red;
+    
+  }
+  .myphoto2{
+      width: 70%;
+      height: 35%;
+      float: left;
+  }
+     /* css h2 apple mobile phone  */
+  .myhh2{
+      margin-top: 25%;
+      background-color: whitesmoke;
+      background-position: top;
+      color: black;
+      padding: 15px;
+      width: 400px ;
+      border-radius: 40px;
+      text-align: center;
+      margin-left: 500px;
+      font-size: 45px;
+      border:3px solid black;
+      outline-style: outset;
+      outline-width: thin;
+      text-shadow: 2px 2px 5px red;
+
+  }
+  .myp{
+      float: right;
+      width: 25%;
+      font-size:35px;
+   
+      
+  }
+  .mypho3{
+      margin-top: 35%;
+      width: 200px;
+      height: auto;
+      float: left;
+  
+  } 
+          /* css links */
+  a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(21, 210, 235);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:blue;
+  }
+  
+  /* selected link */
+  a:active {
+    color: red;
+  }
+#h11{
+    text-align: center;
+    margin-top: 25%;
+    font-size: 180px;
+    clear: both;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: initial;
+    text-shadow: 5px 9px 8px red;
+}
+           /* css h1 */
+.myhw1{
+    margin-left: 400px;
+    background: ivory;
+    border: 3px solid white;
+    width: 400px;
+    color: black;
+    text-decoration: underline;
+    border-radius: 20px;
+    padding: 15px;
+    padding-left: 80px;
+}
+video{
+    margin-left: 80px;
+}
+.h001{
+    text-align: center;
+    font-size: 100px;
+    font-style: initial;
+} 
+     /* css photo and video SE  */
+.img001{
+    margin-top: 20px;
+    width: 60%;
+    height: 30%;
+    margin-left:250px ;
+    float: left;
+    border-radius:80px;
+}
+.video2{
+    margin-top: 20px;
+    margin-left: 300px;
+    width: 800px;
+    height: 500px;
+}
+ul{
+    float: right;
+    width: 40%;
+    font-size: 2em;
+}
+     /*  photo iphone 11 pro max 11 pro & iphone 11 */
+.myphoto005{
+    width: 400px;
+    height: 350px;
+    border-radius:70px;
+    margin-left: 15px;
+    
+}
+.myphoto005:hover{
+    border: solid wheat ;
+}
+.mypho005{
+   
+    float: left;
+    width: 450px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 10px;
+    
+}
+h4{
+    color: wheat;
+}
+       /* css photo iphone 11 pro & 11 pro max */
+.myphoto006{
+    width: 40%;
+    height: auto;
+    float: left;
+    margin: 200px;
+    margin-left: -20px;
+    
+}
+.Liste01{
+    margin-top: 0150px;
+    float: right;
+    width: 47%;
+    text-align:justify ;
+}
+
+        /* css iphone 11 */
+.myphoto007{
+    margin-top: 3%;
+    float:right;
+    width: 50%;
+}
+.liste02{
+    float: left;
+    width: 45%;
+    font-size: 30px;
+    margin: 10px;
+    text-align:justify ;
+}
+/* css iphone XS Max & XS &Xr */
+.myphoto008{
+    width: 350px;
+    height: 300px;
+    border-radius: 75px;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
+.myphoto008:hover{
+    border: 0.1px  wheat ;
+
+}
+.myphotodiv{
+    margin: 5px;
+    float: left;
+    width: 450px;
+    padding: 5px;
+    text-align: center;
+    
+    
+}
+.div1{
+    float: left;
+}
+.div2{
+    clear: left;
+}
+.my01{
+    font-style: unset;
+    font-size: 18px;
+    color:#DCDCDC;
+}
+.h002{
+    color: #A9A9A9;
+text-decoration:underline#F8F8FF; 
+font-size: 30px;
+}
